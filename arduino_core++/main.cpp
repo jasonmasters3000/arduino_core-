@@ -24,4 +24,9 @@ void feature1(char *p)
 	return;
 }
 
+void feature2()
+{
+	return;
+}
+}
 
