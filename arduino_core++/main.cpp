@@ -21,7 +21,7 @@ int main(void)
 void feature1(char *p)
 {
 	/* adding a new feature */
-	return p;
+	return;
 }
-}
+
 
