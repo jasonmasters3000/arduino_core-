@@ -18,3 +18,10 @@ int main(void)
 	return 0;
 }
 
+void feature1(char *p)
+{
+	/* adding a new feature */
+	return p;
+}
+}
+
