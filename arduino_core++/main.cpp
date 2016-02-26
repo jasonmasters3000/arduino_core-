@@ -29,5 +29,6 @@ void feature2()
 	/* new comment */
 	return;
 	/* another comment */
+	/* more */
 }
 
