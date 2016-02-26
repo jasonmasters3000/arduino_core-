@@ -26,6 +26,7 @@ void feature1(char *p)
 
 void feature2()
 {
+	/* new comment */
 	return;
 }
 
