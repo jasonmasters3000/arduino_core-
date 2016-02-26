@@ -28,5 +28,4 @@ void feature2()
 {
 	return;
 }
-}
 
